@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PiercingBalloons</string>
+    <string name="dummy_button">Start Piercing</string>
+    <string name="dummy_content">WELCOME\nTO\nPIERCING BALLOONS</string>
+
+</resources>
